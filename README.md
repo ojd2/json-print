@@ -61,7 +61,7 @@ The following modules need to be installed on your system:
 After installing both `unittest` and `request`, the testing program can be executed by returning the following command:
 
 ```
-> python -m unittest test_moduel
+> python -m unittest test_model
 
 ```
 
