@@ -64,7 +64,3 @@ After installing both `unittest` and `request`, the testing program can be execu
 > python -m unittest test_model
 
 ```
-
-
-
-# py-json-print
